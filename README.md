@@ -3,7 +3,11 @@
 ![Just relax,](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/3168c068-6e32-4799-a7ae-4ce9c04dd383)
 
 # Project Description
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;This study is about providing a client-based program that implements loyalty schemes for their regular customers in our community in Batangas City. The manager of Sweetscape told us that the mobile app can be made at their branches in Libjo, Batangas City, San Pascual, Batangas, and P.Genato St. Lumang Palengke. This system is what we think is an easy way for customers to avoid standing in line because, with this system, they can schedule when they want to go to the salon. This software application assists salon and spa administrators in managing appointment scheduling, client information, and personnel schedules. The system has an easy-to-use interface that allows employees to simply schedule and monitor appointments while also allowing customers to make their own appointments online. Customers' main complaint with this service is the lengthy wait times for services owing to issues such as misunderstanding, poor connection, and inadequate slot management. In addition, the data of the consumers is saved offline, which makes the owner's evaluation of the stuff problematic. Overall, optimizing operations with resource usage analytics may assist salons in increasing productivity, cutting expenses, and giving customers better service. By leveraging data analytics, SweetScape can make informed decisions about how best to allocate resources and optimize their operations.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Through the provision of real-time information on resource availability and use, computerized applications may assist businesses in more effectively allocating resources including staff, equipment, and materials. By ensuring that resources are used as effectively as possible, this can assist to save costs and boost efficiency. This study is about providing a client-based program that implements loyalty schemes for their regular customers in our community in Batangas City. The manager of Sweetscape told us that the mobile app can be made at their branches in Libjo, Batangas City, San Pascual, Batangas, and P.Genato St. Lumang Palengke. This system is what we think is an easy way for customers to avoid standing in line because, with this system, they can schedule when they want to go to the salon. This software application assists salon and spa administrators in managing appointment scheduling, client information, and personnel schedules. The system has an easy-to-use interface that allows employees to simply schedule and monitor appointments while also allowing customers to make their own appointments online. Customers' main complaint with this service is the lengthy wait times for services owing to issues such as misunderstanding, poor connection, and inadequate slot management. In addition, the data of the consumers is saved offline, which makes the owner's evaluation of the stuff problematic. Overall, optimizing operations with resource usage analytics may assist salons in increasing productivity, cutting expenses, and giving customers better service. By leveraging data analytics, SweetScape can make informed decisions about how best to allocate resources and optimize their operations.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; They need to adapt management tactics to changing trends is another key difficulty encountered by salon operators. Salon operators must modify their management tactics when new trends appear since the beauty industry is always evolving and growing. For a more inclusive approach to the success of beauty companies, keeping up with salon industry advancements is essential. The growth of organic and sustainable goods, the increasing demand for online booking, and home services are some of the major effects of salon business advances. The significant development in management is to find an experienced employee  and retain exceptional employees. As the business evolves, so does the need for elite people to be hired and retained in order to remain competitive. To do this, you must support continual education and training for your personnel while simultaneously cultivating a growth culture. Furthermore, a competitive compensation and benefits package is required to attract and retain great stylists and other salon employees.
+
+# SDG
+# SDG 12
 
 # Development Model
 ![Screenshot 2023-06-26 105813](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/280e5652-4cce-42c6-8a74-772c400aef0c)
@@ -23,11 +27,9 @@
 ### Review
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; While using customer feedback, it is vital that the product does include every feature requested by your customers.
 
-# System Architecture
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;
-
 # Application Screenshots
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;
+
 # Team Members
 
 
