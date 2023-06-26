@@ -24,14 +24,18 @@
 
 ### Defining Requirements
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Defining requirements include compiling the group's opinions and proposals for which system to work with, as well as deciding on the best and most workable topic for their final project.
+
 ### Design
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; After a gathering of ideas, the proponents select a topic, and the project manager begins developing the tools, design, and algorithms that will be used to run the system.
-### Development
+# Development
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The system design and documentation include the generation of HTML, CSS, Javascript, MySQL and algorithm files. These files will act as the mobile application. Additionally, the developers will design PHP algorithms to serve as the system backbone for connecting to the database. Thus, the final product will have a fully functional user interface for a Sweetscape platform. Documentation for the project will also begin at this phase when the system is under development.
+    
 ### Testing
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; A complete testing plan was conducted by the developers. For functional and non-functional measures were tested correctly to ensure that the developed system meets the goals. This also includes a phase of live testing to ensure that all links worked. Possible errors are debugged to release the system to the client.
+
 ### Deployment
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;After the testing phase, the system will be uploaded and administered online. This phase will includes the system’s debugging component, which ensures that the system operates properly on the app.
+    
 ### Review
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; While using customer feedback, it is vital that the product does include every feature requested by your customers.
 
