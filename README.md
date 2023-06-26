@@ -23,8 +23,9 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Overall, this study can significantly impact the streamlining operations with  utilization resources and develop a resource allocation analytics system that can optimize the utilization of resources in SweetScape salon, resulting in improved efficiency and cost-effectiveness and contribute to the achievement of Sustainable Development Goal (SDG) 12.
 
 # Development Model
-![Screenshot 2023-06-26 105813](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/280e5652-4cce-42c6-8a74-772c400aef0c)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/280e5652-4cce-42c6-8a74-772c400aef0c/460/300">
+</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The agile development approach is a procedure through which a team manages an Agile software development project by segmenting its process parts into separate stages, with continual discussion and participation of market leaders to improve and iterate at each step of development. Customers describe the end-application of the goods and the specific challenges to be tackled as part of the Agile approach. After starting the work, teams develop a plan, execute the strategy, and then assess the results. It completely modifies the approach of delivering the final product to clients and meeting their expectations. (TechGropse, 2020). Following the defense, additional requirements or ideas from panelists are recognized and used, and subsequent iterations of the software are redesigned and built. Each iteration goes through all phases of the SDLC, and this process is repeated until the system is finished and downloaded.
 
 ### Defining Requirements
