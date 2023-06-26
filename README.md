@@ -11,7 +11,7 @@
 # SDG
 # SDG 12
 <p align="center">
-  <img width="460" height="300" src="![image](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/6a29c60c-7937-4715-867b-b06bdc8141c3)/460/300">
+  <img width="460" height="300" src="https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/6a29c60c-7937-4715-867b-b06bdc8141c3/460/300">
 </p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The project will focus on Sustainable Development Goal (SDG) 12, "Sustainable Consumption and Production," which aims to help eliminate redundancies, ensure optimal resource utilization, improve efficiency, capacity utilization, and sustainability sociability. The project seeks to contribute to the achievement of SDG 12 by developing software for optimizing operations with resource usage. Analytics may assist salons in increasing productivity, cutting expenses, and giving customers better service.
