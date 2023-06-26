@@ -10,7 +10,10 @@
 
 # SDG
 # SDG 12
-![image](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/6a29c60c-7937-4715-867b-b06bdc8141c3)
+<p align="center">
+  <img width="460" height="300" src="![image](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/6a29c60c-7937-4715-867b-b06bdc8141c3)/460/300">
+</p>
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The project will focus on Sustainable Development Goal (SDG) 12, "Sustainable Consumption and Production," which aims to help eliminate redundancies, ensure optimal resource utilization, improve efficiency, capacity utilization, and sustainability sociability. The project seeks to contribute to the achievement of SDG 12 by developing software for optimizing operations with resource usage. Analytics may assist salons in increasing productivity, cutting expenses, and giving customers better service.
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The sweetscape is meant to remove the burden of the salons owners from  performing their daily operations on the desktop. Our app encompasses all the features that you need  to book, check out ,and add the clients. It doesn’t matter if you are in town or not; you can access it easily with the best internet connection. Save the client details, their service and purchasing history, consultation form, notes, etc. All at one place and access them easily from our app. It was created by keeping all the compatibility issues.
