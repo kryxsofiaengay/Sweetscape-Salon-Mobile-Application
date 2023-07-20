@@ -10,9 +10,7 @@
 
 # SDG
 # SDG 6
-<p align="center">
- ![sdg 6](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/f3f63252-2790-4d67-ba78-207ebe4f0ebb)
-</p>
+![sdg 6](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/99ccf7e5-a6ab-4fe1-a24e-c3e15b575120)
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; The project will focus on Sustainable Development Goal (SDG) 6, "Clean Water and Sanitation," which aims to Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations. And to eliminate redundancies, ensure optimal resource utilization, improve efficiency, capacity utilization, and sustainability sociability. The project seeks to contribute to the achievement of SDG 6 by developing software for optimizing operations with resource usage. Analytics may assist salons in increasing productivity, cutting expenses, and giving customers better service.
 
@@ -46,8 +44,11 @@
   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; While using customer feedback, it is vital that the product does include every feature requested by your customers.
 
 # Application Screenshots
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;
+![12](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/ad9db6cc-c6b2-4331-9ba7-8a9f793d23f5)
+![13](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/4911130c-bbce-43b8-8962-7c6ad2c90937)
+![14](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/3c2c553b-8c88-48a8-8399-1411902567c8)
+![15](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/e0bc44a2-fbb7-4725-937b-18ff4d3ea3ac)
 
-# Team Members
 
-
+ # Team Members
+![members](https://github.com/kryxsofiaengay/Sweetscape-Salon-Mobile-Application/assets/114215096/28be551e-4ad7-4b6e-bbd5-0a81321d254c)
