@@ -18,7 +18,7 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Sweetscape  can be operated seamlessly on iphone, ipad, tablets, and android smartphones  to manage the business easily and quickly. Even if it is about  the new booking details,the inventory issue, client details,  staff performance, sales analytics and many more we have covered you comprehensively. Sweet scape is a robust mobile app  for all beauty businesses. It includes the nail salon, hair salon, spa, manicure, pedicure, threading  like eye threading, underarm waxing ,brazilian and  facial  care.
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Overall, this study can significantly impact the streamlining operations with  utilization resources and develop a resource allocation analytics system that can optimize the utilization of resources in SweetScape salon, resulting in improved efficiency and cost-effectiveness and contribute to the achievement of Sustainable Development Goal (SDG) 12.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Overall, this study can significantly impact the streamlining operations with  utilization resources and develop a resource allocation analytics system that can optimize the utilization of resources in SweetScape salon, resulting in improved efficiency and cost-effectiveness and contribute to the achievement of Sustainable Development Goal (SDG) 6.
 
 # Development Model
 <p align="center">
